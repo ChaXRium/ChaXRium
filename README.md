@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Charith, a Sri Lankan CS Undergraduate 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Charith, a Undergraduate 👋🏼:
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying computer science at NSBM Green UNI Sri Lanka<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i></i>
 
 
 # 💻 Tech Stack:
