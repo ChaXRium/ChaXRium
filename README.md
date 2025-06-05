@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpeg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Charith, an Undergraduate 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying computer science at NSBM Green UNI Sri Lanka<br>🎬 just started out with my youtube channel <i></i>
