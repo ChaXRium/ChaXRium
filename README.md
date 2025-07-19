@@ -1,4 +1,4 @@
-<img src="github.png" alt="GitHub Banner" width="100%" />
+<img src="github.png" alt="GitHub Banner" width="100%" height="60%" />
 
 # Hello World!👋🏼:
 🛜 currently working on my own [webpage]()<br>👨🏼‍🎓 studying computer science at NSBM Green UNI Sri Lanka<br>🎬 just started out with my youtube channel <i></i>
