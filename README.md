@@ -1,7 +1,7 @@
 <img src="github.png" alt="GitHub Banner" width="100%" height="60%" />
 
 # Hello World!👋🏼:
-🛜 currently working on our company [webpage](https://chaxrium.github.io/Nova-web/)<br>👨🏼‍🎓 studying computer science at NSBM Green UNI Sri Lanka<br>🎬 just started out with my unstoppable journey <i></i>
+🛜 currently working on our company [webpage](https://chaxrium.github.io/Nova-web/)<br>👨🏼‍🎓 studying Artificial Intelligence at NSBM Green UNI Sri Lanka<br>🎬 just started out with my unstoppable journey <i></i>
 
 
 # 💻 Tech Stack:
